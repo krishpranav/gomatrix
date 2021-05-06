@@ -7,7 +7,7 @@ A fast matrix written in go inspired by cmatrix
 ```
 git clone https://github.com/krishpranav/gomatrix
 cd gomatrix
-go get
+go get -u github.com/nsf/termbox-go
 go build gomatrix.go
 ./gomatrix
 ```
